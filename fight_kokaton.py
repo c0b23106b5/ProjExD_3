@@ -90,7 +90,7 @@ class Bird:
 
 class Beam:
     """
-    こうかとんが放つビームに関するクラス 
+    こうかとんが放つビームに関するクラス    
     """
     def __init__(self, bird:"Bird"):
         """
